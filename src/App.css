@@ -1,1 +1,16 @@
 /** @format */
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: lighter;
+  margin-bottom: 50px;
+}
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
