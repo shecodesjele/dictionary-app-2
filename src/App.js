@@ -10,7 +10,15 @@ export default function App() {
         <h1>Dictionary</h1>
         <h2>Be smarter</h2>
         <Dictionary />
-        <footer>Coded by Jelena</footer>
+        <footer>
+          <a
+            href="https://github.com/shecodesjele/Weather-app-git"
+            target="_blank"
+          >
+            Open-source code
+          </a>
+          , by Jelena
+        </footer>
       </div>
     </div>
   );
