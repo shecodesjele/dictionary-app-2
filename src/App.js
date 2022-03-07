@@ -14,6 +14,7 @@ export default function App() {
           <a
             href="https://github.com/shecodesjele/Weather-app-git"
             target="_blank"
+            rel="noreferrer"
           >
             Open-source code
           </a>
