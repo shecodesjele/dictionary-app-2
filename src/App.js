@@ -12,7 +12,7 @@ export default function App() {
         <Dictionary />
         <footer>
           <a
-            href="https://github.com/shecodesjele/Weather-app-git"
+            href="https://github.com/shecodesjele/dictionary-app-2"
             target="_blank"
             rel="noreferrer"
           >
