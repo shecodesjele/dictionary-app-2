@@ -1,16 +1,32 @@
 /** @format */
 
+body {
+  background: #f8fef8;
+}
+
+a {
+  color: #7079f4;
+}
+
 h1 {
   font-size: 100px;
   text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
 }
+
 h2 {
-  font-size: 40px;
+  font-size: 50px;
   text-align: center;
-  font-weight: lighter;
-  margin-bottom: 50px;
+  display: block;
+  margin: 0 auto;
 }
-footer {
+.App-header {
+  margin: 30px 0;
+}
+
+.App-footer {
   text-align: center;
-  margin-top: 50px;
+  margin: 30px 0;
 }
