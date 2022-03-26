@@ -1,27 +1,17 @@
 /** @format */
 
 body {
-  background: #f8fef8;
+  background: #f0f7f8;
+  color: #112d4e;
 }
 
-a {
-  color: #7079f4;
-}
-
-h1 {
-  font-size: 100px;
-  text-align: center;
+.App-logo {
+  max-width: 350px;
   display: block;
   margin: 0 auto;
-  margin-bottom: 20px;
+  color: black;
 }
 
-h2 {
-  font-size: 50px;
-  text-align: center;
-  display: block;
-  margin: 0 auto;
-}
 .App-header {
   margin: 30px 0;
 }

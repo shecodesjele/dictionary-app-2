@@ -15,9 +15,14 @@
   transition: all 150ms ease-in-out;
 }
 
-.Phonetic a:hover {
-  background: #9670f4;
+.Phonetic a {
   color: white;
+  background-color: #181a1d;
+}
+
+.Phonetic a:hover {
+  background: white;
+  color: #112d4e;
 }
 
 .Phonetic .text {

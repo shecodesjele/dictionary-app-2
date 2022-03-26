@@ -1,5 +1,5 @@
 /** @format */
-
+import logo from "./logo.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -8,8 +8,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>Dictiontary</h1>
-          <h2>Be smarter</h2>
+          <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
           <Dictionary defaultKeyword="beach" />
